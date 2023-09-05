@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{B76429A8-E9A4-4ED7-B8C5-9CC202C89277}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task0.V0", "Tyuiu.GofmanDV.Sprint0.Task0.V0\Tyuiu.GofmanDV.Sprint0.Task0.V0.vcxproj", "{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Debug|x64.ActiveCfg = Debug|x64
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Debug|x64.Build.0 = Debug|x64
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Debug|x86.Build.0 = Debug|Win32
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x64.ActiveCfg = Release|x64
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x64.Build.0 = Release|x64
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x86.ActiveCfg = Release|Win32
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B} = {B76429A8-E9A4-4ED7-B8C5-9CC202C89277}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02106731-F099-4211-9485-96DA5C3EB204}
+	EndGlobalSection
+EndGlobal
