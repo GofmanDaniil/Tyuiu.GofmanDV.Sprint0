@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{B76429A8
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task0.V0", "Tyuiu.GofmanDV.Sprint0.Task0.V0\Tyuiu.GofmanDV.Sprint0.Task0.V0.vcxproj", "{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{F574FDB3-AA88-48E1-8A31-1BD6EBD2AB11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task1.V0", "Tyuiu.GofmanDV.Sprint0.Task1.V0\Tyuiu.GofmanDV.Sprint0.Task1.V0.vcxproj", "{407A270F-751B-4FBC-A226-447D47D7D7CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x64.Build.0 = Release|x64
 		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x86.ActiveCfg = Release|Win32
 		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B}.Release|x86.Build.0 = Release|Win32
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Debug|x64.ActiveCfg = Debug|x64
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Debug|x64.Build.0 = Debug|x64
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Debug|x86.Build.0 = Debug|Win32
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Release|x64.ActiveCfg = Release|x64
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Release|x64.Build.0 = Release|x64
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Release|x86.ActiveCfg = Release|Win32
+		{407A270F-751B-4FBC-A226-447D47D7D7CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F8430AA6-3E00-4FD0-878F-EA4CBEB5682B} = {B76429A8-E9A4-4ED7-B8C5-9CC202C89277}
+		{407A270F-751B-4FBC-A226-447D47D7D7CE} = {F574FDB3-AA88-48E1-8A31-1BD6EBD2AB11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {02106731-F099-4211-9485-96DA5C3EB204}
