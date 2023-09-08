@@ -1,24 +1,14 @@
+// Tyuiu.GofmanDV.Sprint0.Task2.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
 #include <iostream>
-#include <string>
-#include <locale>
-using namespace std;
+#include"../Tyuiu.GofmanDV.Sprint0.Task2.V0.Lib/Tyuiu.GofmanDV.Sprint0.Task2.V0.Lib.cpp"
+
 int main()
 {
-	setlocale(LC_ALL, "RU");
-	cout << "Введите имя: ";
-	string name;
-	cin >> name;
-	cout << "Введите фамилию:  ";
-	string surname;
-	cin >> surname;
-	cout << "Введите отвечство: ";
-	string ot;
-	cin >> ot;
-	cout << "Введите возраст:";
-	int age;
-	cin >> age;
-	cout << "Имя: " << name << endl << "Фамилия:" << surname << endl << "Отчество:" << ot << endl << "Возраст:" << age << endl;
-	return 0;
+    ISprint0Task2V0* service = new Service();
+    std::cout << "GofmanDV\n";
+    std::cout << "Result 8+12=" << service->Add(8, 12);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
