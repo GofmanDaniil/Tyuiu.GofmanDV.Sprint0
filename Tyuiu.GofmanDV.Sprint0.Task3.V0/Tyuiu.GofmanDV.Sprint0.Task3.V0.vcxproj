@@ -24,6 +24,7 @@
     <ProjectGuid>{dd0b59d7-52e2-45c1-bcea-815907470285}</ProjectGuid>
     <RootNamespace>TyuiuGofmanDVSprint0Task3V0</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Tyuiu.GofmanDV.Sprint0.Task3.V0</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,6 +141,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Tyuiu.GofmanDV.Sprint0.Task3.V0.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Tyuiu.Cours.cpp\Tyuiu.Cours.cpp.vcxproj" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

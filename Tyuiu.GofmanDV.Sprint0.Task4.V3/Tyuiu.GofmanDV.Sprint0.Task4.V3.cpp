@@ -1,12 +1,17 @@
-// Tyuiu.GofmanDV.Sprint0.Task4.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tyuiu.GofmanDV.Sprint0.Task4.V3.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-#include <string>
+#include "../Tyuiu.GofmanDV.Sprint0.Task4.V3.Lib/Tyuiu.GofmanDV.Sprint0.Task4.V3.Lib.cpp"
 using namespace std;
+
 int main()
 {
-	
+    ISprint0Task4* date = new Service();
+    cout << "S =(a/b*c)/9\n" << "15, 2, 4, 8\n";
+    cout << "Result = " << date->Calculate(15, 2, 4, 8);
+    cout << endl;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

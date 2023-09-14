@@ -8,10 +8,8 @@
 // TODO: This is an example of a library function
 class Service1 :public ISprint0Task3
 {
-
-	// Inherited via ISprint0Task3V0
 	virtual int SummV3(int a, int b, int c) = 0;
 	{
-		return a + b + c; //решение
-	}
+		return a + b + c;
+	};
 };

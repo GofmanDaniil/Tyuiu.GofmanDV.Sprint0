@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "../Tyuiu.GofmanDV.Sprint0.Task3.V0.Lib/Tyuiu.GofmanDV.Sprint0.Task3.V0.Lib.cpp"
+#include "../Tyuiu.GofmanDV.Sprint0.Task3.Lib/Tyuiu.GofmanDV.Sprint0.Task3.Lib.cpp"
 
 int main()
 {
