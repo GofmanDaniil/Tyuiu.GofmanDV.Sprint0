@@ -22,7 +22,7 @@ namespace UnitTest
 			r = date->Rezalt(a, b);
 
 			//Valid
-			AssertEqual::(true, r);
+			Assert::AreEqual(true, r);
 		}
 	};
 }

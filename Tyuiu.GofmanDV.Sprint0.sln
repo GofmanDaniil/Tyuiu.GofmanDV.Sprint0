@@ -17,7 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task2.V0.Test", "Tyuiu.GofmanDV.Sprint0.Task2.V0.Test\Tyuiu.GofmanDV.Sprint0.Task2.V0.Test.vcxproj", "{9B57E73C-E9FC-4D00-BC6D-6CEF455FA828}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{1A126669-3954-4306-B96C-ECD52F37F7AA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{1A126669-3954-4306-B96C-ECD52F37F7AA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task3.V0", "Tyuiu.GofmanDV.Sprint0.Task3.V0\Tyuiu.GofmanDV.Sprint0.Task3.V0.vcxproj", "{DD0B59D7-52E2-45C1-BCEA-815907470285}"
 EndProject
@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task3.V0.Test", "Tyuiu.GofmanDV.Sprint0.Task3.V0.Test\Tyuiu.GofmanDV.Sprint0.Task3.V0.Test.vcxproj", "{F3E3B046-B081-4592-9377-93CA808068A2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{88905AF2-FF79-4225-8488-B6FDF6B7933F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{88905AF2-FF79-4225-8488-B6FDF6B7933F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task4.V3", "Tyuiu.GofmanDV.Sprint0.Task4.V3\Tyuiu.GofmanDV.Sprint0.Task4.V3.vcxproj", "{FD588A6C-8C09-43C4-B68D-59A6EF6083D5}"
 EndProject
@@ -33,7 +33,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task4.V3.Test", "Tyuiu.GofmanDV.Sprint0.Task4.V3.Test\Tyuiu.GofmanDV.Sprint0.Task4.V3.Test.vcxproj", "{A8986886-D319-437D-9774-43663F9228C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{594E71BE-3218-442A-991E-5A3A46D6C0DF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{594E71BE-3218-442A-991E-5A3A46D6C0DF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task5.V3", "Tyuiu.GofmanDV.Sprint0.Task5.V3\Tyuiu.GofmanDV.Sprint0.Task5.V3.vcxproj", "{9D514506-6E54-4210-BAC7-51289BA94072}"
 EndProject
@@ -41,7 +41,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task5.V3.Lib", "Tyuiu.GofmanDV.Sprint0.Task5.V3.Lib\Tyuiu.GofmanDV.Sprint0.Task5.V3.Lib.vcxproj", "{3C93098B-BF8E-4E1B-95A9-939D771E30D5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder4", "NewFolder4", "{6E7B3567-0E1F-472C-AC9C-3A9C53E47E2F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{6E7B3567-0E1F-472C-AC9C-3A9C53E47E2F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task6.V3", "Tyuiu.GofmanDV.Sprint0.Task6.V3\Tyuiu.GofmanDV.Sprint0.Task6.V3.vcxproj", "{2D710E25-A69B-4293-B144-65DFBDE70FCC}"
 EndProject
@@ -49,7 +49,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task6.V3.Lib", "Tyuiu.GofmanDV.Sprint0.Task6.V3.Lib\Tyuiu.GofmanDV.Sprint0.Task6.V3.Lib.vcxproj", "{129A04E7-85BF-4A4E-AD23-0270559156FD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder5", "NewFolder5", "{F4C0D0EF-D71D-4C66-929A-F26DAE46FF11}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{F4C0D0EF-D71D-4C66-929A-F26DAE46FF11}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GofmanDV.Sprint0.Task7.V3", "Tyuiu.GofmanDV.Sprint0.Task7.V3\Tyuiu.GofmanDV.Sprint0.Task7.V3.vcxproj", "{2BEA6895-8F89-4271-85A6-DCBB2DC51472}"
 EndProject

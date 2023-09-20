@@ -8,7 +8,7 @@
 // TODO: This is an example of a library function
 class Service : public ISprint0Task7
 {
-	virtual bool Rezalt(int a, int b) override
+	virtual float Rezalt(int a, int b) override
 	{
 		int aa = a;
 		while (aa > 0)
